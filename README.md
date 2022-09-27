@@ -4,7 +4,15 @@ tasya sepla putri utami 2101082030
 
 #latihan-service
 <br><H1>#LATIHAN-SERVICE<H1>
+  
 <br><h3>#ALAT DAN BAHAN</h3>
+<br>1. Menggunakan Maven Spring
+<br>2. Menggunakan Spring Boot versi : 2.6.11
+<br>3. Menggunakan Aplikasi NeatBeans : Apache NetBeans IDE 13
+<br>4. Menggunakan Pemrogramman Bahasa Java
+<br>5. Menggunakan Java : JDK 17
+<br>6. Menggunakan Browser : Chrome
+  
 <br><h3>#LANGKAH KERJA</h3>
 <br>1. buat projek maven dengan menggunakan https://start.spring.io/
 <br>![image](https://user-images.githubusercontent.com/113502811/192435601-ef28683f-82a1-4c41-816d-1aef2d0b98ca.png)
