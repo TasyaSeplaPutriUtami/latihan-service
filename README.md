@@ -8,7 +8,7 @@ tasya sepla putri utami 2101082030
 <br><h3>#ALAT DAN BAHAN</h3>
 <br>1. Menggunakan Maven Spring
 <br>2. Menggunakan Spring Boot versi : 2.6.11
-<br>3. Menggunakan Aplikasi NeatBeans : Apache NetBeans IDE 13
+<br>3. Menggunakan Aplikasi NetBeans : Apache NetBeans IDE 13
 <br>4. Menggunakan Pemrogramman Bahasa Java
 <br>5. Menggunakan Java : JDK 17
 <br>6. Menggunakan Browser : Chrome
