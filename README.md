@@ -1,4 +1,4 @@
-# Limits-service
+#latihan-service
 #program-client-server
 tasya sepla putri utami 2101082030
 
@@ -39,7 +39,7 @@ tasya sepla putri utami 2101082030
 <br>14. klik bulid with dependencies tunggu hingga keluar output build success
 <br>![image](https://user-images.githubusercontent.com/113502811/192455810-52e3f8b2-726b-4b9c-aace-d5e3bc19cc6d.png)
 <br>15. Buka file application.properties dan tulis kode berikut:
-<br>![image](https://user-images.githubusercontent.com/113502811/192463020-86859c2f-daab-44d6-8a26-6a1a041675cb.png)
+<br>![image](https://user-images.githubusercontent.com/113502811/193712149-dbb7b253-934b-4798-a529-e0876d1fc7e0.png)
 <br>16. Tambahkan kode Anda
 Buka proyek di IDE Anda dan cari LatihanServiceApplication di source package com.tasyalatihan.service. Sekarang ubah isi file dengan menambahkan metode tambahan dan anotasi yang ditunjukkan pada kode di bawah ini.
 <br>![image](https://user-images.githubusercontent.com/113502811/192469726-7d00642d-12c2-4c0f-957d-524be0c37bd6.png)
@@ -47,7 +47,8 @@ Buka proyek di IDE Anda dan cari LatihanServiceApplication di source package com
 <br>17. Cobalah!
 <br>Mari kita membangun dan menjalankan program. Buka baris perintah (atau terminal) dan arahkan ke folder tempat Anda memiliki file proyek. Kita dapat membangun dan menjalankan aplikasi dengan mengeluarkan perintah berikut:
 <br>![image](https://user-images.githubusercontent.com/113502811/192473591-a2979bc4-be28-4cee-949b-26bdd8010c64.png)
-<br>
-<br>
-<br>1. lalu run pada LimitsServiceApplication.java.
+<br>Beberapa baris terakhir di sini memberi tahu kami bahwa spring telah dimulai. Server Apache Tomcat tertanam pada Spring Boot bertindak sebagai server web dan mendengarkan permintaan pada localhostport 8080. Buka browser Anda dan di bilah alamat di bagian atas enterhttp://localhost:8080/halo. Anda harus mendapatkan respons ramah yang bagus seperti ini:
+<br>!![image](https://user-images.githubusercontent.com/113502811/193712225-d565d402-8d4e-470f-bda1-c8931f2638f6.png)
+
+
 
